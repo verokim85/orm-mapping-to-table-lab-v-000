@@ -8,6 +8,7 @@ class Student
     @id = id
   end
 
+
   #  with DB[:conn]
 
 end
