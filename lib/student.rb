@@ -10,6 +10,7 @@ class Student
 
   def self.create_table
 
+  end
   #  with DB[:conn]
 
 end
