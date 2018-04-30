@@ -8,6 +8,7 @@ class Student
     @id = id
   end
 
+  def self.create_table
 
   #  with DB[:conn]
 
