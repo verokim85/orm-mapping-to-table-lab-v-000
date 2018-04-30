@@ -15,7 +15,6 @@ class Student
         name TEXT
         grade INTEGER
       )
-      )
     SQL
   end
   #  with DB[:conn]
